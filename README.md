@@ -1,8 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<HTML>
-<HEAD>
-<TITLE></TITLE>
-<script src="jLib.1_1.js"></script>
+
 <link rel="stylesheet" type="text/css" href="jLib.1_1.css" media="all">
 <style>
 * { font-family: Verdana, Arial, Sans-Serif; }
