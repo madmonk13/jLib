@@ -10,4 +10,4 @@ jLib is a collection of styles and scripts I've developed over the years includi
 8. Custom Alert Boxes
 9. Various other Helper Functions
 
-See the included index.html for details and demos.
+<a href="https://madmonk13.github.io/jLib/">click here</a> for details and demos.
